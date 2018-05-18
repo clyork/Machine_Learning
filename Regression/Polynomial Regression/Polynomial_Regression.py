@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 
-dataset = pd.read_csv("/Users/codyyork/Desktop/Programming Projects/Machine Learning/Regression/Polynomial Regression/Position_Salaries.csv")
+dataset = pd.read_csv("/Users/codyyork/Documents/GitHub/Machine_Learning/Regression/Polynomial Regression/Position_Salaries.csv")
 
 #should do 1:2 to get rid of any warnings
 x = dataset.iloc[:, 1:2].values

@@ -1,5 +1,5 @@
 ###Multiple Linear Regression###
-dataset = read.csv('/Users/codyyork/Desktop/Programming Projects/Machine Learning/Regression/Multiple Linear Regression/50_Startups.csv')
+dataset = read.csv('/Users/codyyork/Documents/GitHub/Machine_Learning/Regression/Multiple Linear Regression/50_Startups.csv')
 #dataset = dataset[, 2:3]
 
 ##Encoding Catagorical Data##

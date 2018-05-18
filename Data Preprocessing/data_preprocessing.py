@@ -19,7 +19,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 
-dataset = pd.read_csv("/Users/codyyork/Desktop/Programming Projects/Machine Learning/Data Preprocessing/Data.csv")
+dataset = pd.read_csv("/Users/codyyork/Documents/GitHub/Machine_Learning/Data Preprocessing/Data.csv")
 
 #:means all col so :-1 means all but last col
 x = dataset.iloc[:, :-1].values

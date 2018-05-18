@@ -1,5 +1,5 @@
 ###Polynomial Regression###
-dataset = read.csv('/Users/codyyork/Desktop/Programming Projects/Machine Learning/Regression/Polynomial Regression/Position_Salaries.csv')
+dataset = read.csv('/Users/codyyork/Documents/GitHub/Machine_Learning/Regression/Polynomial Regression/Position_Salaries.csv')
 dataset = dataset[, 2:3]
 
 ##Fitting Polynomial Regression to the dataset##

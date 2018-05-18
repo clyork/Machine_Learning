@@ -4,7 +4,7 @@
 
 ##Importing the data##
 
-dataset = read.csv('/Users/codyyork/Desktop/Programming Projects/Machine Learning/Data Preprocessing/Data.csv')
+dataset = read.csv('"/Users/codyyork/Documents/GitHub/Machine_Learning/Data Preprocessing/Data.csv"')
 #dataset = dataset[, 2:3]
 
 ##Splitting the dataset into Training and Testing##
