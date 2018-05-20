@@ -1,6 +1,6 @@
 # Machine Learning Programs
 
-This is a collection of what I have currently been learning and working with machine learning in both Python and R.
+This is a collection of what I have currently been learning and working on with machine learning in both Python and R.
 
 ## Getting Started
 
