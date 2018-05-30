@@ -1,4 +1,4 @@
-# Machine Learning Programs
+# Machine Learning Work
 
 This is a collection of what I have currently been learning and working on with machine learning in both Python and R.
 
@@ -8,7 +8,7 @@ This project is a file structure that contains all the scripts and data neccissa
 
 ### Prerequisites
 
-+Latest Python Version: https://www.python.org/downloads/
-+Latest R Version: https://www.r-project.org/about.html
+* Latest Python Version: https://www.python.org/downloads/
+* Latest R Version: https://www.r-project.org/about.html
 
 I personally use the Anaconda Distribution. It makes downloading what you need a breeze. You can find it here: https://anaconda.org/anaconda/python
